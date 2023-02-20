@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-divakar/static/css/main.f3e4a663.css",
+    "main.js": "/portfolio-divakar/static/js/main.26e1c5bc.js",
+    "static/media/hero-img.png": "/portfolio-divakar/static/media/hero-img.b9f2bfdaf4893b38656f.png",
+    "static/media/about-img.png": "/portfolio-divakar/static/media/about-img.48987bfb78f4123db271.png",
+    "index.html": "/portfolio-divakar/index.html",
+    "main.f3e4a663.css.map": "/portfolio-divakar/static/css/main.f3e4a663.css.map",
+    "main.26e1c5bc.js.map": "/portfolio-divakar/static/js/main.26e1c5bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e4a663.css",
+    "static/js/main.26e1c5bc.js"
+  ]
+}
